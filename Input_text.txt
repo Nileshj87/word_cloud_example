@@ -1,0 +1,109 @@
+Nilesh Vishwas Jadhav
+Automation Engineer and Data Analyst 
+
+Mobile: +91-9665 091149                                                 | Gender: Male
+E-Mail: njnileshjadhav@gmail.com                                 | Nationality: Indian
+LinkedIn: linkedin.com/in/nilesh-jadhav1/      	| Location: Pune, India
+GitHub URL: https://github.com/Nileshj87/Python_1  
+
+PROFILE 
+A dedicated and result-driven Automation Engineer and Data Analyst with 13+ years of experience in the IT industry. Proficient in multiple areas, including data collection, analysis, requirement gathering, macro design, task automation, and client delivery. Skilled in managing end-to-end project phases, utilizing Python, VBA programming, and advanced Excel to streamline processes. One of the notable achievements includes developing a multipage web application for graphical project data representation hosted locally with Apache. Excel in Python, Microsoft Office, and advanced Excel to handle complex formulas, pivots, lookups, arrays, and dictionaries. Adept in creating and maintaining dashboards using Python Flask or advanced Excel and preparing comprehensive project documentation post-completion. Committed to providing end-user support post-deployment and possess a sound knowledge of MySQL, Perl, and shell scripts. Seeking opportunities to use proficiency in Windows and Linux environments to drive automation and data analysis projects successfully.
+
+AREAS OF EXPERTISE
+	Data Collection
+	Data Analysis
+	Requirement Gathering
+	Macro Design
+	Task Automation		Client Delivery
+	Reporting & Documentation
+	Deployment
+	Software Development
+	VBA Programming		Service Level Agreements (SLA)
+	Project Management
+	Web Development
+	3D Image Analysis
+	REST API Development 
+TECHNICAL SKILLS
+ Python 3  MS Excel  VBA  MS Word  MySQL  Redmine  phpMyAdmin  JIRA  Testlink   SAP   MS PowerPoint   Minitab 15   BW Template   Multi-Currency Horizon (MCH)  IBS (Integrated Banking System)  RMD Cash & Stock Recon  CMOD
+
+PROFESSIONAL EXPERIENCE
+Fujitsu Consulting India PVT Ltd                                                                                                                                          Jun 2022 - Ongoing 
+Client: Fujitsu Research Japan
+Environment: Python 3 | Team Size: 3
+Senior Application Developer		Act as the project's technical lead, responsible for crafting software architecture to meet client requirements.
+	Collaborate with the client, Fujitsu Research Japan, to gather project requirements and prepare a work breakdown structure (WBS). 
+	Facilitate seamless communication between the India and Japan teams, ensuring a clear understanding of requirements. 
+	Deliver Python projects using the Flask framework, including image annotation and dynamic process diagram generation.
+	Develop REST APIs for Flask applications, enhancing middleware development plans for improved application performance and functionality.
+
+KPIT Technologies Ltd                                                                                                                                                           Jan 2015 – Jun 2022
+Client: Automotive Electronic Manufacture
+Environment: Python 3, Excel, VBA, Word, MySQL, Redmine, phpmyadmin, JIRA, Testlink | Team Size: IC (Individual Contributor)
+Technical Leader		Collaborated with internal teams and management to comprehend user requirements, offering technical solutions, and automating routine tasks to enhance efficiency.
+	Automated data extraction from JIRA, Redmine, Planio, and Testlink using Python modules such as Redminelib, testlink, jira, and multithreading.
+	Implemented a script utilizing socket programming to fetch data from the server directly.
+	Developed an intranet management dashboard, accessible at a central location (with specific IP), using Python. 
+	Created a GUI application with Python using the Tkinter module.
+	Functioned as the administrator for Redmine version 2.4.2, managing project creation, trackers, workflow, and roles according to real-time requirements.
+	Managed MySQL database operations through phpMyAdmin for the Redmine tool.
+	Designed and developed issue synchronization between client and internal web portals using Redmine API and Python.
+	Crafted customized macros to generate multiple reports from a single file for weekly customer releases, resulting in significant time savings.
+	Retrieved data from the database using MySQL queries.
+	Created VBA macros based on requests from management and various teams across projects.
+	Automated the daily calibration package creation process with Python scripts, allowing packages to be built as per required parameters.
+	Developed Python auto scripts to interact with an SQLite database, efficiently storing data extracted from Redmine and Testlink tools.
+
+Maersk Global Service Centre                                                                                                                                             Apr 2013 – Jul 2014
+Client: Global Dispute Reporting
+Environment: SAP (System Application Product), Excel, Power point, Minitab 15, BW Template
+Senior Associate-Performance Information		Managed MIS reports for the Dispute Team globally, ensuring delivery accuracy.
+	Maintained and updated daily trackers and log files for Daily, Weekly, Monthly, and Ad-hoc reports.
+	Supported ad-hoc reporting requirements as needed, demonstrating flexibility in responding to changing needs.
+	Provided support for client reporting activities, ensuring client-specific reporting needs were met.
+	Supported internal reporting activities, adhering to a report calendar and ensuring timely delivery of scheduled reports to management teams.
+	Prepared critical weekly and monthly reports, including Service Level Agreements (SLA) reports.
+	Utilized Minitab 15 for generating charts and data visualization.
+	Scheduled data extraction in SAP to ensure accurate data retrieval, even in the absence of team members.
+	Created customized delivery templates and contributed to process automation using tools such as MS Excel formulas and Visual Basic Application (VBA Macro).
+	Produced comprehensive documentation for all activities, including SOP and IOP.
+
+Infosys BPO LTD                                                                                                                                                                      Jul 2011 – Apr 2013
+Client: British-Australian multinational (Accounts Payable – MIS Team)
+Environment: SAP 6.0 (System Application Product), Excel, Power point | Role: Subject Matter Expert (SME)
+Senior Process Executive - Operations		Oversaw MIS reports for the client's Accounts Payable department, ensuring accuracy and timeliness.
+	Addressed ad-hoc change requests and handled escalations within the team.
+	Provided daily reports to clients and promptly addressed ad-hoc requests as needed.
+	Prepared and disseminated Daily, Weekly, and Monthly Reports to both internal teams and clients.
+	Published daily Status reports, including Production Reports and invoice pending Reports.
+	Collected data from various departments and integrated it into consolidated weekly and monthly presentations (PPT files).
+	Produced critical weekly and monthly reports such as CSL-KPI, SLA, and Web cycle reminder reports for Site supervisors.
+	Implemented automation using Excel formulas and VBA code to enhance efficiency and reduce manual workload.
+
+PREVIOUS EXPERIENCES
+State Street Syntel Services Pvt Ltd | Associate                                                                                                             Jan 2010 – Jun 2011
+Client: APAC (Asia Pacific Recon)
+Environment: Multi-Currency Horizon (MCH), IBS (Integrated Banking System), RMD Cash & Stock Recon, CMOD 
+Role: Senior Team Member
+
+ACHIEVEMENTS
+	Implemented automation solutions to streamline manual processes, resulting in faster and more efficient deliveries.
+	Designed and developed a Python Flask web application that automates data retrieval from various sources and presents calculated results in both tabular and graphical formats.
+	Pioneered an online data extraction method using Python's Pandas module, enhancing data collection and storage capabilities.
+	Leveraged VBA Web Scraping, as well as Python libraries such as selenium, urllib, and requests, to import, update, and fetch real-time data from various tools.
+	Created a macro for weekly dashboard preparation, ensuring time savings and 100% accuracy.
+	Developed a Python script with the selenium module to automate data fetching and updating on a webpage.
+
+ACCOLADES
+	Bronze Award - Fujitsu | 2023
+	Extra Miler Award - Infosys | 2011
+	Vega Star Award - Syntel | 2010
+	Awarded for the completion of an 80-hour Language and Communication course
+
+EDUCATION
+B.B.A. from Institute of Management and Rural Development Administration, Sangli; Bharati Vidyapeeth University	2009
+
+CERTIFICATIONS
+	Crash Course on Python from Coursera | 2022
+	Maersk Lean Six Sigma White Belt Certification from Maersk | 2014
+	Project Communic-Care (PCC) Certificate from Infosys BPO in collaboration with the British Council
+	Diploma in Office Automation  from Smart Bit Computer Institute, Viman Nagar, Pune
